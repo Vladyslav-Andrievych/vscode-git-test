@@ -1,5 +1,9 @@
 div {
+<<<<<<< HEAD
   margin: 65px;
+=======
+  margin: 60px;
+>>>>>>> b68af15656d0806d88ba29402699d2de1c9e165e
   padding: 5px;
   text-transform: uppercase;
 }
