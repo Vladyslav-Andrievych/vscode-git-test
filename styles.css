@@ -1,5 +1,5 @@
 div {
-  margin: 50px;
+  margin: 50px; /* were conflict */
   padding: 5px;
   text-transform: uppercase;
 }
